@@ -11,6 +11,8 @@ java {
 	}
 }
 
+jar.archiveFileName = "my-remote-user-storage-provider.jar"
+
 repositories {
 	mavenCentral()
 }
